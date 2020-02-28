@@ -1,2 +1,1 @@
-﻿dasfasfdsfas
-你好，github！！！！！
+﻿这是一个主分支上的内容。
